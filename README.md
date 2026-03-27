@@ -25,7 +25,7 @@ It is based on the Breast Cancer Wisconsin dataset.
 
 ## 🤖 Models Used
 
-*NEURAL NETWORK
+* NEURAL NETWORK
 
 ---
 
@@ -54,4 +54,4 @@ breast-cancer-detection/
 
 ## 👨‍💻 Author
 
-*Utkarsh
+* Utkarsh
